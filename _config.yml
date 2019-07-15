@@ -1,3 +1,4 @@
 theme: jekyll-theme-hacker
 title: Computronix-Game
 baseurl: /Computronix
+show_downloads: true
